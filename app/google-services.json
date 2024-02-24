@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400280303660",
+    "project_id": "loginmvvm-e282b",
+    "storage_bucket": "loginmvvm-e282b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400280303660:android:b575516cc66ee6f35b7989",
+        "android_client_info": {
+          "package_name": "com.sid_ali_tech.loginapptaskmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzo6lhF5Aip9avzs9UuvJy5QNU4VcI8Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
