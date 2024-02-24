@@ -98,6 +98,7 @@ class SignUpFragment : Fragment() {
             val address = binding.edtAddress.text.toString()
             val checkValid = Constants.isEmailValid(email)
             viewModel.password.value = password
+            
             if (checkValid && email.isNotEmpty() && password.isNotEmpty() && fName.isNotEmpty() && lName.isNotEmpty()) {
                 viewModel.signUp(
                     User(
